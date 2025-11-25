@@ -174,7 +174,7 @@ To add 10, 20 and 25 and store it in a register
 	
 # OUTPUT WAVEFORM:
 
-![waveform](test1.png)
+![waveform](waveform.png)
 
 # SAMPLE PROGRAM 2
 
@@ -192,4 +192,4 @@ To load the contents from a given memory address, add 45 to it and store it in t
 
 # OUTPUT WAVEFORM:
 
-![wave2](test2.png)
+![wave2](wave2.png)
