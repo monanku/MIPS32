@@ -174,7 +174,7 @@ To add 10, 20 and 25 and store it in a register
 	
 # OUTPUT WAVEFORM:
 
-![waveform](waveform.png)
+![waveform](wavefrom.png)
 
 # SAMPLE PROGRAM 2
 
